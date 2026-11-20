@@ -1,0 +1,7 @@
+Example,Room,Length (m),Width (m),Height (m),Uninsulated glass (m2),Uninsulated stone (m2),Log walls,Heater,Room volume (m3),Room volume (cu ft),"Calculated volume, Harvia rule (m3)",Calculated volume (cu ft),HUUM rule (m3),HUUM North American sheet (m3),Power low (kW),Power high (kW),What the source says
+Calculator default,"6 x 5 x 7 ft room, 12 sq ft glass door",1.8288,1.524,2.1336,1.1148,0,No,Electric,5.95,210,7.28,257,7.06,7.62,5.1,7.3,"DIVELUX online calculator: 210 cu ft, 7.3 m³ (257 cu ft), 5.1 to 7.3 kW"
+Harvia L30 manual,10 m³ room with a glass door of about 0.8 x 2.0 m,2.5,2,2,1.6,0,No,Electric,10.00,353,11.92,421,11.60,12.40,8.4,11.9,"""about a 12 m³ sauna room"""
+Harvia wood stove guide,"2.0 x 2.5 x 2.3 m, glass door 0.9 x 2.1 m",2.0,2.5,2.3,1.89,0,No,Wood-burning,11.50,406,13.77,486,13.39,14.34,n/a,n/a,11.5 + 2.27 = 13.77 m³
+HUUM sizing article,"2 x 1.8 x 2.2 m, glass wall 1.8 x 2.2 m",2,1.8,2.2,3.96,0,No,Electric,7.92,280,12.67,448,11.88,13.86,9.0,12.7,11.88 m³ by the HUUM rule
+Harvia support,"calculated volume of about 8.5 m³, nothing uninsulated",2.5,2,1.7,0,0,No,Electric,8.50,300,8.50,300,8.50,8.50,6.0,8.5,"""a minimum output of 6 kW"""
+Log room (illustration),"2 x 2 x 2 m bare log room, 1 m² of glass",2,2,2,1,0,Yes,Electric,8.00,283,13.20,466,n/a,n/a,9.3,13.2,Harvia rule: 8 x 1.5 + 1.2 = 13.2 m³; no HUUM figure for a log room

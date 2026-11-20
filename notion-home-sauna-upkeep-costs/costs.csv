@@ -1,0 +1,5 @@
+Item,Date,Category,Amount,Vendor,Notes
+Example: box of sauna stones,2027-01-10,Stones,45,,Sample row with a made-up amount. Delete it.
+Example: electrician's yearly check,2027-02-03,Professional service,180,,Sample row with a made-up amount. Delete it.
+Example: bench cleaner,2027-02-14,Cleaning supplies,16,,Sample row with a made-up amount. Delete it.
+Example: firewood,2027-03-01,Firewood,120,,Sample row with a made-up amount. Delete it.
