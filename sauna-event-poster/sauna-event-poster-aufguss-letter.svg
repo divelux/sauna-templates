@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="1056" viewBox="0 0 816 1056">
+<title>Sauna Event Poster: Aufguss night (US Letter)</title>
+<desc>Editable template by DIVELUX, https://diveluxsaunahat.com. CC BY 4.0. Fonts: Bricolage Grotesque and Inter (Google Fonts, SIL OFL 1.1). Text layers are live text; groups are named after the fields.</desc>
+<rect id="background" width="816" height="1056" fill="#1c110b"/>
+<g id="club-name">
+<text x="48.95" y="65.95" font-family="Bricolage Grotesque" font-size="20.4" font-weight="700" fill="#f6f3ee" xml:space="preserve">Your Sauna Club</text>
+</g>
+<g id="presents">
+<text x="48.95" y="87.64" font-family="Inter" font-size="12.65" font-weight="400" fill="#c9bfb3" xml:space="preserve">presents</text>
+</g>
+<g id="title">
+<text x="48.95" y="200.17" font-family="Bricolage Grotesque" font-size="110.98" font-weight="800" letter-spacing="-3.88" fill="#f6f3ee" xml:space="preserve">Aufguss Night</text>
+</g>
+<g id="lead">
+<text x="48.95" y="248.53" font-family="Bricolage Grotesque" font-size="19.18" font-weight="500" fill="#e9e1d6" xml:space="preserve">Four guided steam sessions with our sauna masters: birch, citrus,</text>
+<text x="48.95" y="273.83" font-family="Bricolage Grotesque" font-size="19.18" font-weight="500" fill="#e9e1d6" xml:space="preserve">mint and a silent finale. Rest and tea in the lounge between</text>
+<text x="48.95" y="299.13" font-family="Bricolage Grotesque" font-size="19.18" font-weight="500" fill="#e9e1d6" xml:space="preserve">rounds.</text>
+</g>
+<g id="illustration">
+<svg viewBox="0 0 600 600" x="152.97" y="313.58" width="510.05" height="510.05"><path d="M250 190 C266 176.8 234 163.6 250 150 C266 136.8 234 123.6 250 110 C266 96.8 234 83.6 250 70" fill="none" stroke="#ffffff" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/><path d="M305 170 C323 155.7 287 141.4 305 126.7 C323 112.4 287 98.1 305 83.3 C323 69 287 54.7 305 40" fill="none" stroke="#ffffff" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/><path d="M360 195 C374 182.9 346 170.8 360 158.3 C374 146.2 346 134.1 360 121.7 C374 109.6 346 97.5 360 85" fill="none" stroke="#ffffff" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/><ellipse cx="212" cy="292" rx="32" ry="22" fill="#6a635c" transform="rotate(-6 212 292)"/><ellipse cx="270" cy="288" rx="38" ry="26" fill="#8d867e" transform="rotate(4 270 288)"/><ellipse cx="332" cy="290" rx="34" ry="24" fill="#4a443f" transform="rotate(-3 332 290)"/><ellipse cx="386" cy="293" rx="30" ry="21" fill="#6a635c" transform="rotate(8 386 293)"/><ellipse cx="242" cy="254" rx="30" ry="21" fill="#8d867e" transform="rotate(6 242 254)"/><ellipse cx="300" cy="248" rx="34" ry="23" fill="#6a635c" transform="rotate(-4 300 248)"/><ellipse cx="358" cy="254" rx="29" ry="20" fill="#8d867e" transform="rotate(3 358 254)"/><ellipse cx="274" cy="218" rx="26" ry="18" fill="#4a443f" transform="rotate(-8 274 218)"/><ellipse cx="326" cy="216" rx="25" ry="17" fill="#8d867e" transform="rotate(6 326 216)"/><rect x="205" y="500" width="20" height="26" rx="4" fill="#1b1512"/><rect x="375" y="500" width="20" height="26" rx="4" fill="#1b1512"/><rect x="186" y="306" width="228" height="200" rx="16" fill="#1b1512"/><rect x="174" y="294" width="252" height="30" rx="10" fill="#3a2a20"/><rect x="232" y="360" width="136" height="104" rx="10" fill="#3a2a20"/><rect x="250" y="378" width="100" height="68" rx="7" fill="#f0762e"/><path d="M300 388c4 14 22 22 22 40a22 22 0 0 1-44 0c0-8 4-14 9-19 1 7 4 10 8 12-3-13-1-24 5-33z" fill="#f7b27a"/><path d="M214 344h172" fill="none" stroke="#3a2a20" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><circle cx="385" cy="412" r="6" fill="#d9b683"/></svg>
+</g>
+<line x1="48.95" y1="856.75" x2="767.05" y2="856.75" stroke="#5a4a3e" stroke-width="1"/>
+<g id="date">
+<rect x="48.95" y="914.56" width="190.09" height="35.89" rx="6" fill="#f0762e"/>
+<text x="62" y="938.72" font-family="Bricolage Grotesque" font-size="19.58" font-weight="700" fill="#1b1512" xml:space="preserve">Friday, January 15</text>
+</g>
+<g id="time">
+<text x="48.95" y="977.42" font-family="Bricolage Grotesque" font-size="19.58" font-weight="600" fill="#f6f3ee" xml:space="preserve">7 – 10 pm</text>
+</g>
+<g id="bring-title">
+<text x="354.95" y="937.94" font-family="Bricolage Grotesque" font-size="14.69" font-weight="700" fill="#f6f3ee" xml:space="preserve">Bring</text>
+</g>
+<g id="bring-list">
+<text x="354.95" y="961.66" font-family="Inter" font-size="12.24" font-weight="400" fill="#e9e1d6" xml:space="preserve">Two towels, a water bottle, flip-flops and a wool</text>
+<text x="354.95" y="978.78" font-family="Inter" font-size="12.24" font-weight="400" fill="#e9e1d6" xml:space="preserve">sauna hat, worn dry.</text>
+</g>
+<g id="qr-placeholder">
+<rect x="661.47" y="877.33" width="105.08" height="105.08" rx="5.5" fill="none" stroke="#f6f3ee" stroke-width="1" stroke-dasharray="3 2"/>
+<g id="qr-label">
+<text x="685.5" y="927.11" font-family="Inter" font-size="10.2" font-weight="400" fill="#f6f3ee" xml:space="preserve">Tickets $00</text>
+<text x="680.5" y="939.86" font-family="Inter" font-size="10.2" font-weight="400" fill="#f6f3ee" xml:space="preserve">QR code here</text>
+</g>
+</g>
+<g id="fine-print">
+<text x="48.95" y="1012.48" font-family="Inter" font-size="9.79" font-weight="400" fill="#c9bfb3" xml:space="preserve">18+ event. Sauna is not for everyone: if you are pregnant or have a health condition, ask your</text>
+<text x="48.95" y="1026.19" font-family="Inter" font-size="9.79" font-weight="400" fill="#c9bfb3" xml:space="preserve">doctor first.</text>
+</g>
+<g id="credit">
+<text x="539.05" y="1012.48" font-family="Inter" font-size="8.57" font-weight="400" fill="#c9bfb3" xml:space="preserve">Template by DIVELUX ·</text>
+<text x="632.05" y="1012.48" font-family="Inter" font-size="8.57" font-weight="600" fill="#c9bfb3" xml:space="preserve">diveluxsaunahat.com</text>
+<text x="722.05" y="1012.48" font-family="Inter" font-size="8.57" font-weight="400" fill="#c9bfb3" xml:space="preserve">· CC BY 4.0</text>
+</g>
+</svg>

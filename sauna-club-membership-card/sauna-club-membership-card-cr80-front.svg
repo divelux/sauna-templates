@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="346.2" height="226.77" viewBox="0 0 346.2 226.77">
+<title>Sauna Club Membership Card (Card 85.6 × 54 mm + bleed)</title>
+<desc>Editable template by DIVELUX, https://diveluxsaunahat.com. CC BY 4.0. Fonts: Bricolage Grotesque and Inter (Google Fonts, SIL OFL 1.1). Text layers are live text; groups are named after the fields.</desc>
+<rect id="background" width="346.2" height="226.77" fill="#f6f3ee"/>
+<g id="card-front">
+<rect x="0" y="0" width="346.2" height="226.77" fill="#f6f3ee"/>
+<clipPath id="clip1"><rect x="0" y="0" width="346.2" height="226.77"/></clipPath><g clip-path="url(#clip1)">
+<rect x="0" y="0" width="102.05" height="226.77" fill="#1c110b"/>
+<g id="icon">
+<svg viewBox="0 0 24 24" fill="#f6f3ee" x="28.72" y="31.73" width="45.34" height="45.34"><path d="M4.8 14.92Q4.98 14.49 5.15 13.8Q5.26 13.36 5.46 12.39Q5.63 11.57 5.73 11.16Q5.89 10.45 6.05 9.89Q6.48 8.43 7.08 7.44Q8.27 5.48 10.33 4.95Q10.02 4.44 9.96 3.86Q9.91 3.52 9.97 3.2Q10.03 2.85 10.2 2.56Q10.39 2.24 10.68 2.04Q10.99 1.82 11.38 1.76Q11.75 1.7 12.09 1.78Q12.44 1.86 12.72 2.08Q12.98 2.29 13.15 2.59Q13.31 2.87 13.38 3.21Q13.52 3.85 13.32 4.57Q13.28 4.71 13.23 4.85Q15.61 5.28 16.92 7.44Q17.52 8.43 17.95 9.89Q18.11 10.45 18.27 11.16Q18.37 11.57 18.54 12.39Q18.74 13.36 18.85 13.8Q19.02 14.49 19.2 14.92Q19.25 15.06 19.25 15.21Q19.25 15.36 19.19 15.5Q19.13 15.63 19.02 15.74Q18.92 15.84 18.78 15.9Q18.64 15.95 18.5 15.95H14.4Q14.39 12.66 14.04 10.3Q13.68 7.77 12.84 5.61Q12.73 5.79 12.59 5.97Q12.42 6.18 12.16 6.23Q12.09 6.25 12.01 6.25Q12.73 8.19 13.06 10.45Q13.39 12.74 13.4 15.95H5.5Q5.35 15.95 5.21 15.89Q5.08 15.84 4.97 15.73Q4.86 15.62 4.81 15.49Q4.75 15.35 4.75 15.2Q4.75 15.06 4.8 14.92ZM5.1 16.8H18.9C19.89 16.8 20.7 17.61 20.7 18.6C20.7 19.59 19.89 20.4 18.9 20.4H5.1C4.11 20.4 3.3 19.59 3.3 18.6C3.3 17.61 4.11 16.8 5.1 16.8ZM11.9 4.3C12.1 3.8 11.9 3.3 11.6 3.3C11.4 3.4 11.4 3.9 11.9 4.3Z"/></svg>
+</g>
+<text x="22.67" y="155.28" font-family="Inter" font-size="7.18" font-weight="400" fill="#c9bfb3" xml:space="preserve">Member no.</text>
+<g id="member-no">
+<text x="22.67" y="175" font-family="Bricolage Grotesque" font-size="16.63" font-weight="700" fill="#f6f3ee" xml:space="preserve">0001</text>
+</g>
+<g id="club-name">
+<text x="117.16" y="39.94" font-family="Bricolage Grotesque" font-size="18.52" font-weight="700" letter-spacing="-0.19" fill="#1b1512" xml:space="preserve">Your Sauna Club</text>
+</g>
+<rect x="117.16" y="50.03" width="6.42" height="6.42" rx="3.21" fill="#f0762e"/>
+<g id="card-title">
+<text x="128.86" y="55.28" font-family="Inter" font-size="7.94" font-weight="400" fill="#6f655c" xml:space="preserve">Membership card</text>
+</g>
+<text x="117.16" y="90.17" font-family="Inter" font-size="6.61" font-weight="400" fill="#6f655c" xml:space="preserve">Member</text>
+<g id="member-name">
+<line x1="117.16" y1="116" x2="323.53" y2="116" stroke="#1b1512" stroke-width="1"/>
+<text x="117.16" y="108.17" font-family="Bricolage Grotesque" font-size="14.74" font-weight="600" fill="#1b1512" xml:space="preserve">Member Name</text>
+</g>
+<text x="117.16" y="186.5" font-family="Inter" font-size="6.61" font-weight="400" fill="#6f655c" xml:space="preserve">Type</text>
+<g id="card-type">
+<text x="117.16" y="200.5" font-family="Bricolage Grotesque" font-size="10.96" font-weight="600" fill="#1b1512" xml:space="preserve">Monthly</text>
+</g>
+<text x="226" y="186.5" font-family="Inter" font-size="6.61" font-weight="400" fill="#6f655c" xml:space="preserve">Valid thru</text>
+<g id="valid-thru">
+<text x="226" y="200.5" font-family="Bricolage Grotesque" font-size="10.96" font-weight="600" fill="#1b1512" xml:space="preserve">12 / 2027</text>
+</g>
+</g>
+</g>
+</svg>

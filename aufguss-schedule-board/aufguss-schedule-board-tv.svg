@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<title>Aufguss Schedule Board (TV 1920 × 1080)</title>
+<desc>Editable template by DIVELUX, https://diveluxsaunahat.com. CC BY 4.0. Fonts: Bricolage Grotesque and Inter (Google Fonts, SIL OFL 1.1). Text layers are live text; groups are named after the fields.</desc>
+<rect id="background" width="1920" height="1080" fill="#1c110b"/>
+<g id="next-panel">
+<rect x="0" y="0" width="729.59" height="1080" fill="#2a1b13"/>
+<g id="club-name">
+<text x="57.59" y="90.27" font-family="Bricolage Grotesque" font-size="28.8" font-weight="700" fill="#f6f3ee" xml:space="preserve">Your Sauna Club</text>
+</g>
+<g id="date">
+<text x="57.59" y="126.56" font-family="Inter" font-size="20.16" font-weight="400" fill="#c9bfb3" xml:space="preserve">Saturday, December 5</text>
+</g>
+<g id="next-label">
+<rect x="57.59" y="232.59" width="183.38" height="43.17" rx="6" fill="#f0762e"/>
+<text x="76.78" y="261.14" font-family="Bricolage Grotesque" font-size="22.08" font-weight="700" fill="#1b1512" xml:space="preserve">Next Aufguss</text>
+</g>
+<g id="next-time">
+<text x="57.59" y="424.64" font-family="Bricolage Grotesque" font-size="157.44" font-weight="800" letter-spacing="-4.72" fill="#f6f3ee" xml:space="preserve">4:00 pm</text>
+</g>
+<g id="next-name">
+<text x="57.59" y="522.05" font-family="Bricolage Grotesque" font-size="55.68" font-weight="700" fill="#f6f3ee" xml:space="preserve">Welcome round</text>
+</g>
+<text x="57.59" y="596.75" font-family="Inter" font-size="21.5" font-weight="400" fill="#c9bfb3" xml:space="preserve">Scent</text>
+<g id="next-scent">
+<text x="155.47" y="596.75" font-family="Inter" font-size="21.5" font-weight="600" fill="#f6f3ee" xml:space="preserve">Eucalyptus</text>
+</g>
+<text x="57.59" y="634.28" font-family="Inter" font-size="21.5" font-weight="400" fill="#c9bfb3" xml:space="preserve">Heat</text>
+<g id="next-heat">
+<text x="155.47" y="634.28" font-family="Inter" font-size="21.5" font-weight="600" fill="#f6f3ee" xml:space="preserve">Mild</text>
+</g>
+<text x="57.59" y="671.81" font-family="Inter" font-size="21.5" font-weight="400" fill="#c9bfb3" xml:space="preserve">Room</text>
+<g id="next-room">
+<text x="155.47" y="671.81" font-family="Inter" font-size="21.5" font-weight="600" fill="#f6f3ee" xml:space="preserve">Main sauna</text>
+</g>
+<text x="57.59" y="709.34" font-family="Inter" font-size="21.5" font-weight="400" fill="#c9bfb3" xml:space="preserve">Length</text>
+<g id="next-length">
+<text x="155.47" y="709.34" font-family="Inter" font-size="21.5" font-weight="600" fill="#f6f3ee" xml:space="preserve">10 min</text>
+</g>
+<g id="tv-rule">
+<line x1="57.59" y1="986.8" x2="672" y2="986.8" stroke="#5a4a3e" stroke-width="1"/>
+<text x="57.59" y="1027.41" font-family="Inter" font-size="18.24" font-weight="400" fill="#c9bfb3" xml:space="preserve">The door closes when a session starts. Leave whenever you need to.</text>
+</g>
+</g>
+<g id="schedule">
+<g id="title">
+<text x="794.86" y="122.27" font-family="Bricolage Grotesque" font-size="69.12" font-weight="800" letter-spacing="-1.38" fill="#f6f3ee" xml:space="preserve">Aufguss tonight</text>
+</g>
+<g id="row-1">
+<line x1="794.86" y1="177.13" x2="1854.73" y2="177.13" stroke="#5a4a3e" stroke-width="1"/>
+<g id="time">
+<text x="794.86" y="240.84" font-family="Bricolage Grotesque" font-size="40.32" font-weight="700" fill="#f6f3ee" xml:space="preserve">4:00 pm</text>
+</g>
+<g id="session">
+<text x="1007.97" y="238.05" font-family="Bricolage Grotesque" font-size="32.64" font-weight="600" fill="#f6f3ee" xml:space="preserve">Welcome round</text>
+</g>
+<g id="scent">
+<text x="1401.63" y="235.39" font-family="Inter" font-size="20.16" font-weight="400" fill="#c9bfb3" xml:space="preserve">Eucalyptus</text>
+</g>
+<g id="room">
+<text x="1854.73" y="235.39" text-anchor="end" font-family="Inter" font-size="20.16" font-weight="400" fill="#c9bfb3" xml:space="preserve">Main sauna</text>
+</g>
+</g>
+<g id="row-2">
+<line x1="794.86" y1="278.88" x2="1854.73" y2="278.88" stroke="#5a4a3e" stroke-width="1"/>
+<g id="time-2">
+<text x="794.86" y="342.59" font-family="Bricolage Grotesque" font-size="40.32" font-weight="700" fill="#f6f3ee" xml:space="preserve">5:00 pm</text>
+</g>
+<g id="session-2">
+<text x="1007.97" y="339.8" font-family="Bricolage Grotesque" font-size="32.64" font-weight="600" fill="#f6f3ee" xml:space="preserve">Birch forest</text>
+</g>
+<g id="scent-2">
+<text x="1401.63" y="337.14" font-family="Inter" font-size="20.16" font-weight="400" fill="#c9bfb3" xml:space="preserve">Birch and pine</text>
+</g>
+<g id="room-2">
+<text x="1854.73" y="337.14" text-anchor="end" font-family="Inter" font-size="20.16" font-weight="400" fill="#c9bfb3" xml:space="preserve">Main sauna</text>
+</g>
+</g>
+<g id="row-3">
+<line x1="794.86" y1="380.63" x2="1854.73" y2="380.63" stroke="#5a4a3e" stroke-width="1"/>
+<g id="time-3">
+<text x="794.86" y="444.34" font-family="Bricolage Grotesque" font-size="40.32" font-weight="700" fill="#f6f3ee" xml:space="preserve">6:00 pm</text>
+</g>
+<g id="session-3">
+<text x="1007.97" y="441.55" font-family="Bricolage Grotesque" font-size="32.64" font-weight="600" fill="#f6f3ee" xml:space="preserve">Citrus</text>
+</g>
+<g id="scent-3">
+<text x="1401.63" y="438.89" font-family="Inter" font-size="20.16" font-weight="400" fill="#c9bfb3" xml:space="preserve">Orange and lemon</text>
+</g>
+<g id="room-3">
+<text x="1854.73" y="438.89" text-anchor="end" font-family="Inter" font-size="20.16" font-weight="400" fill="#c9bfb3" xml:space="preserve">Garden sauna</text>
+</g>
+</g>
+<g id="row-4">
+<line x1="794.86" y1="482.38" x2="1854.73" y2="482.38" stroke="#5a4a3e" stroke-width="1"/>
+<g id="time-4">
+<text x="794.86" y="546.09" font-family="Bricolage Grotesque" font-size="40.32" font-weight="700" fill="#f6f3ee" xml:space="preserve">7:00 pm</text>
+</g>
+<g id="session-4">
+<text x="1007.97" y="543.3" font-family="Bricolage Grotesque" font-size="32.64" font-weight="600" fill="#f6f3ee" xml:space="preserve">Mint and ice</text>
+</g>
+<g id="scent-4">
+<text x="1401.63" y="540.64" font-family="Inter" font-size="20.16" font-weight="400" fill="#c9bfb3" xml:space="preserve">Peppermint</text>
+</g>
+<g id="room-4">
+<text x="1854.73" y="540.64" text-anchor="end" font-family="Inter" font-size="20.16" font-weight="400" fill="#c9bfb3" xml:space="preserve">Main sauna</text>
+</g>
+</g>
+<g id="row-5">
+<line x1="794.86" y1="584.13" x2="1854.73" y2="584.13" stroke="#5a4a3e" stroke-width="1"/>
+<g id="time-5">
+<text x="794.86" y="647.84" font-family="Bricolage Grotesque" font-size="40.32" font-weight="700" fill="#f6f3ee" xml:space="preserve">8:00 pm</text>
+</g>
+<g id="session-5">
+<text x="1007.97" y="645.05" font-family="Bricolage Grotesque" font-size="32.64" font-weight="600" fill="#f6f3ee" xml:space="preserve">Lavender evening</text>
+</g>
+<g id="scent-5">
+<text x="1401.63" y="642.39" font-family="Inter" font-size="20.16" font-weight="400" fill="#c9bfb3" xml:space="preserve">Lavender</text>
+</g>
+<g id="room-5">
+<text x="1854.73" y="642.39" text-anchor="end" font-family="Inter" font-size="20.16" font-weight="400" fill="#c9bfb3" xml:space="preserve">Garden sauna</text>
+</g>
+</g>
+<g id="row-6">
+<line x1="794.86" y1="685.88" x2="1854.73" y2="685.88" stroke="#5a4a3e" stroke-width="1"/>
+<line x1="794.86" y1="786.63" x2="1854.73" y2="786.63" stroke="#5a4a3e" stroke-width="1"/>
+<g id="time-6">
+<text x="794.86" y="749.09" font-family="Bricolage Grotesque" font-size="40.32" font-weight="700" fill="#f6f3ee" xml:space="preserve">9:00 pm</text>
+</g>
+<g id="session-6">
+<text x="1007.97" y="746.3" font-family="Bricolage Grotesque" font-size="32.64" font-weight="600" fill="#f6f3ee" xml:space="preserve">Silent round</text>
+</g>
+<g id="scent-6">
+<text x="1401.63" y="743.64" font-family="Inter" font-size="20.16" font-weight="400" fill="#c9bfb3" xml:space="preserve">No scent</text>
+</g>
+<g id="room-6">
+<text x="1854.73" y="743.64" text-anchor="end" font-family="Inter" font-size="20.16" font-weight="400" fill="#c9bfb3" xml:space="preserve">Main sauna</text>
+</g>
+</g>
+<g id="credit">
+<text x="1660.73" y="1029.86" text-anchor="end" font-family="Inter" font-size="11.9" font-weight="400" fill="#8f8277" xml:space="preserve">Template by DIVELUX ·</text>
+<text x="1786.73" y="1029.86" text-anchor="end" font-family="Inter" font-size="11.9" font-weight="600" fill="#8f8277" xml:space="preserve">diveluxsaunahat.com</text>
+<text x="1854.73" y="1029.86" text-anchor="end" font-family="Inter" font-size="11.9" font-weight="400" fill="#8f8277" xml:space="preserve">· CC BY 4.0</text>
+</g>
+</g>
+</svg>
